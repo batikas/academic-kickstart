@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Presentations"
 subtitle = ""
 
 [content]
@@ -67,3 +67,21 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+- SKEMA Business School, February 2019 (“Entrepreneurship in Anonymous Marketplaces: Reaction to Negative Feedback”)
+- University of the Balearic Islands, February 2019 (“Entrepreneurship in Anonymous Marketplaces: Reaction to Negative Feedback”)
+- Rennes School of Business,  December 2018 (“Entrepreneurship in Anonymous Marketplaces: Reaction to Negative Feedback”)
+- Annual Meeting of Academy of Management 2018 (“Entrepreneurship in Anonymous Marketplaces: Reaction to Negative Feedback”)
+- TIME Seminar 2018 (“The Lives of Others: Impact of Formal and Informal Monitoring of the Short-term Rental Market in Barcelona”)
+- Munich Summer Institute 2018 (“Entrepreneurship in Anonymous Marketplaces: Reaction to Negative Feedback”)
+- AOM Specialized Conference: Big Data and Managing in a Digital Economy 2018 (“Advanced Techniques for Web-Scraping”)
+- ORG Seminar 2018 (“The impact of demand on supplier entry: Evidence from Airbnb”)
+- Workshop on Economic Governance of Data-driven Markets, Tilburg University 2017 (“Follow The Money: Piracy and Online Advertising”)
+- ITS-Europe Regional Conference 2017 (“Follow The Money: Piracy and Online Advertising”)
+- TIME Seminar 2017 (“Follow The Money: Piracy and Online Advertising”)
+- ORG Seminar 2017 (“Follow The Money: Piracy and Online Advertising”)
+- European Academy of Management Conference 2011 (“Participation of Catalan SMEs in FLOSS communities”)
+- NITIM (PhD network on Networks, Information Technology and Innovation Management) 2007 (“The Ecology of FLOSS 2.0: Attractiveness from outside the “Community”)
+- Workshop on Open Innovation, Cambridge University and MIT, 2007 (“Firms' Decision to Contribute to Free Libre Open Source Software Communities”)
+- Doctoral Consortium of 15th European Conference on Information Systems (ECIS) 2007 (“New Business Models in FLOSS 2.0”)
+- ITS-Europe Regional Conference 2003 (“SMS Interactive TV - The Convergence of Television and Mobile Networks”)

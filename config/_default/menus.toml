@@ -6,27 +6,44 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 1
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+  name = "Research"
+  url = "#publications"
+  weight = 2
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
-
-[[main]]
+  parent = "Research"
   name = "Publications"
-  url = "#featured"
-  weight = 40
+  url = "#publications"
+  weight = 3  
+
+[[main]]
+  parent = "Research"
+  name = "Working Papers"
+  url = "#working_papers"
+  weight = 4
+
+[[main]]
+  name = "Presentations"
+  url = "#talks"
+  weight = 5
+
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 6 
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 7
+
+[[main]]
+  name = "CV"
+  url = "https://www.dropbox.com/s/31uq2rtq2ek8s4i/CV_Batikas_Sep19.pdf?dl=0"
+  weight = 8
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
